@@ -1,7 +1,7 @@
 # 计算机网络知识-学习我见-by zobol
 
 #### 写作前言
-[ 往事如烟-作者自序](./Doc/AuthorForeword/01WangShiRuYan.html)  
+[ 往事如烟-作者自序](./Doc/AuthorForeword/01AuthorIntroduceWangShiRuYan.html)  
 
 [ 你好呀，计算机网络！](./Doc/AuthorForeword/02NiHaoComputerNetwork.html)
 
