@@ -10,6 +10,10 @@
 
 -> ![01](https://zobolblog.github.io/LearnComputerNetwork/Photo/011.jpg)<-
 
+<p align="center"> 
+<img src="https://zobolblog.github.io/LearnComputerNetwork/Photo/011.jpg">
+</p>
+
 ## #教学思路
 对于计算机网络的学习
 
