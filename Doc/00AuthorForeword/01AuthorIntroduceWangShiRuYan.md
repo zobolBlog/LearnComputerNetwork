@@ -14,7 +14,7 @@
 </p>
 
 
-<div align=center><img width="400" height="300" src="https://zobolblog.github.io/LearnComputerNetwork/Photo/01.jpg"/></div>
+<div align=center><img width="400" height="300" src="/LearnComputerNetwork/Photo/01.jpg"/></div>
 
 
 ## #教学思路

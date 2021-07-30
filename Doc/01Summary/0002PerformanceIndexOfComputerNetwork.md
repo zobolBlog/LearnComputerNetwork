@@ -38,7 +38,7 @@
 （3）速率等级是十进制递增的，每次递增10^3的指数差距。
 ```
 <div align=center><img width="400" height="300" src="/Photo/02.jpg"/></div>
-
+<p align="center"><img width="400" height="300" src="/LearnComputerNetwork/Photo/02.jpg"></p>
 
 
 许多人分不清两者区别，做题习惯用口诀“**大B二进制，小b十进制**”,我认为这是不好的习惯。。
@@ -57,7 +57,7 @@
 这其实是完全子虚乌有的，因为计算机用于存储数据，永远都是二进制，数据的真实存在必须是以二进制存在的。存储数据使用十进制是毫无必要的。
 ```
 
-<div align=center><img width="400" height="300" src="https://zobolblog.github.io/LearnComputerNetwork/Photo/03.jpg"/></div>
+<div align=center><img width="400" height="300" src="/LearnComputerNetwork/Photo/03.jpg"/></div>
 
 常见题型：给出一块具体**数据的量**，某个信道的**速率**，**时间**中的任意两者
 ```
