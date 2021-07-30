@@ -37,7 +37,7 @@
 （2）数据量等级是二进制递增的，除首次外，每次递增2^10的指数差距（1B = 8 bit）。
 （3）速率等级是十进制递增的，每次递增10^3的指数差距。
 ```
-<div align=center><img width="400" height="300" src="/Photo/02.jpg"/></div>
+
 <p align="center"><img width="400" height="300" src="/LearnComputerNetwork/Photo/02.jpg"></p>
 
 
@@ -58,7 +58,7 @@
 ```
 
 <div align=center><img width="400" height="300" src="/LearnComputerNetwork/Photo/03.jpg"/></div>
-
+<p align="center"><img width="400" height="300" src="/LearnComputerNetwork/Photo/03.jpg"></p>
 常见题型：给出一块具体**数据的量**，某个信道的**速率**，**时间**中的任意两者
 ```diff
 + 因为速率的单位永远都是bit,所以我们把数据量也转为bit的数量，然后进行计算。
