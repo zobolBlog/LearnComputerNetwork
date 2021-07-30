@@ -8,11 +8,14 @@
 
 在此感谢我的母校对我的无私培养，感谢我的朋友同学们对我的帮助，感谢Dr Lv老师以及所有信院老师对我的指导。
 
--> ![01](https://zobolblog.github.io/LearnComputerNetwork/Photo/011.jpg)<-
 
 <p align="center"> 
 <img src="https://zobolblog.github.io/LearnComputerNetwork/Photo/011.jpg">
 </p>
+
+
+<div align=center><img width="400" height="300" src="https://zobolblog.github.io/LearnComputerNetwork/Photo/01.jpg"/></div>
+
 
 ## #教学思路
 对于计算机网络的学习
