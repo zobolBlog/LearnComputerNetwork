@@ -57,7 +57,7 @@
 !  这其实是完全子虚乌有的，因为计算机用于存储数据，永远都是二进制，数据的真实存在必须是以二进制存在的。
 !  存储数据使用十进制是毫无必要的。
 ```
-<p align="center"><img width="550" height="160" src="/LearnComputerNetwork/Photo/03.jpg"></p>
+<p align="center"><img width="800" height="220" src="/LearnComputerNetwork/Photo/03.jpg"></p>
 
 常见题型：给出一块具体**数据的量**，某个信道的**速率**，**时间**中的任意两者
 ```diff
