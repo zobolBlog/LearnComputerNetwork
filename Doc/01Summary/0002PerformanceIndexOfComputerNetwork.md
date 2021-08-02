@@ -67,12 +67,13 @@
 
 #### 带宽
 
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>（1）不是网速越快越好，很多时候稳定，紧急时刻能确保信号连通更重要
+<div><div ><pre><code style="display: block;background: #1e1e1e;line-height: 160%;border: 0;padding: 18px;color: #f4f4f4;">
+（1）不是网速越快越好，很多时候稳定，紧急时刻能确保信号连通更重要
 （2）网速过快，也要考虑搭建成本，费用问题。比如5G的硬件费用居高不下
 （3）搭建一个小公司的网络，没必要考虑太多所谓“高并发”问题
 （4）系统的备份恢复有时候优先于效率
 （5）系统的性能并不是一成不变的，它随着时段不同而变化
+
 </code></pre></div></div>
 
 
